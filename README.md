@@ -62,6 +62,8 @@ optional arguments:
 
 `python app.py -i workdir/input.txt -w workdir -p 8080`
 
+python app.py -i /media/monika/Transcend/katai_home/python_projects/graphs/input.txt -w /media/monika/Transcend/katai_home/python_projects/graphs/ -p 8080
+
 Visit http://localhost:8080 on web browser
 
 
